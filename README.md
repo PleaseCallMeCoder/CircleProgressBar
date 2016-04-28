@@ -40,3 +40,7 @@ A circular gradient Android progress bar.
 ##联系方式
 
 邮箱：18231195685@sina.cn
+
+##我的博客
+
+![点击查看我的博客](http://blog.csdn.net/sdkfjksf)
