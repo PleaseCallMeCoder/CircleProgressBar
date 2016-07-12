@@ -43,4 +43,4 @@ A circular gradient Android progress bar.
 
 ##我的博客
 
-[点击查看我的博客](http://blog.csdn.net/sdkfjksf)
+[点击查看我的博客](http://blog.csdn.net/sdkfjksf?viewmode=list)
