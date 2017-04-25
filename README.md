@@ -1,4 +1,4 @@
-#CircleProgressBar
+# CircleProgressBar
 
 ![](http://i.imgur.com/3mmtrMc.png)
 
@@ -7,15 +7,15 @@ A circular gradient Android progress bar.
 
 ----------
 
-#开发文档 (Development Help)
+# 开发文档 (Development Help)
 
-##引用方式
+## 引用方式
 
 在build.gradle中添加如下引用：
 
 		compile 'com.coder:circlebar:1.0.0'
 
-##circlebar支持的功能
+## circlebar支持的功能
 
 - 设置进度的最大值
 
@@ -37,10 +37,10 @@ A circular gradient Android progress bar.
 
 ----------
 
-##联系方式
+## 联系方式
 
 邮箱：18231195685@sina.cn
 
-##我的博客
+## 我的博客
 
-[点击查看我的博客](http://blog.csdn.net/sdkfjksf?viewmode=list)
+[点击查看我的博客](http://blog.renleicoder.com/)
