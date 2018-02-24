@@ -12,7 +12,7 @@ A circular gradient Android progress bar.
 
 在build.gradle中添加如下引用：
 
-		compile 'com.coder:circlebar:1.0.0'
+	compile 'com.coder:circlebar:1.0.0'
 
 ## circlebar支持的功能
 
