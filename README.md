@@ -1,9 +1,8 @@
 # CircleProgressBar
 
-![](http://i.imgur.com/3mmtrMc.png)
+<img src="http://i.imgur.com/3mmtrMc.png" width = "300" align=center />
 
 A circular gradient Android progress bar.
-
 
 ----------
 
